@@ -48,6 +48,7 @@
 
 ## やったことはないが興味があるもの
 
+- TDD / BDD
 - CI / CD
 
 ## 職務経歴
@@ -59,6 +60,7 @@
 #### SiTest開発
 
 - Webサイトのトラッキングからヒートマップ表示までを一気通貫して開発・運用
+- 膨大なトラッキングデータを処理する為に、Kinesisを利用した大規模なバッチの構築
 - フロントエンド: AngularJS + Pug + Stylus + LiveScript
 - バックエンド: CakePHP, Express, MySQL, AWS Kinesis, Azure Event Hubs
 - その他: Gulp, Browserify, Docker, CoreOS/fleet, Vagrant
@@ -94,13 +96,13 @@
 
 #### Be-Meサイトの運営
 
-- 食に関する通販のポータルサイトを管理・運用
+- 食に関する通販のポータルサイトを開発・運用
 - フロントエンド: HTML, CSS
 - バックエンド: PHP, CSV
 - その他: XAMPP
 
 #### レセプト博士
 
-- NTTデータ社がサポートするソフトの開発及び改修
+- NTTデータ社が開発したソフトの改修
 - 言語等: C++, MS SQL Express Edition
 
