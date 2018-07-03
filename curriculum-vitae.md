@@ -34,10 +34,9 @@
 
 - Editor: Vim
 - Docker
-- Vagrant
-- Ansible
-- Gulp
-- Browserify
+- Vagrant / Ansible
+- Gulp / Browserify
+- TDD / BDD
 
 ## 強み
 
@@ -48,10 +47,21 @@
 
 ## やったことはないが興味があるもの
 
-- TDD / BDD
 - CI / CD
 
 ## 職務経歴
+
+### 2017/08 - 2018/05: 株式会社ファイバーゲート
+
+職務: アプリケーションエンジニア
+
+#### [oneTouch Wi-Fi](https://www.one-touchwifi.com/)プロジェクト
+
+- 新ルータが設定ファイルを取得しにいくゲートウェイサーバ(TCP/UDP)の開発
+  - 新ルータはHTTP通信が出来ずバイトコードにとるやり取りを実現する
+  - 最終的に数万のルータがぶら下がる為、スケールアウトしやすい抗争で開発
+- 言語: Node.js (ES2015)
+- 環境: Docker, WS, Mocha/Chai, Phalcon, MySQL, Redis
 
 ### 2014/07 - 2017/03: 株式会社グラッドキューブ
 
